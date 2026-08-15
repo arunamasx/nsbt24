@@ -12,7 +12,11 @@ public class Test {
      */
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-
+        ///GFUYGUY
+        //aruna
+        System.out.print("adasd");
+        System.out.print("adasd");
+        System.out.print("adasd"); System.out.print("adasd");
     }
 
 }
