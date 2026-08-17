@@ -16,7 +16,9 @@ public class Test {
         //aruna
         System.out.print("adasd");
         System.out.print("adasd");
-        System.out.print("adasd"); System.out.print("adasd");
+        System.out.print("adasd"); 
+        StringBuilder fgfdg= new StringBuilder();
+        System.out.print("adasd");
     }
 
 }
